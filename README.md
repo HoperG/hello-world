@@ -1,2 +1,3 @@
 # hello-world
-my first programmar
+my first program
+
